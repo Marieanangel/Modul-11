@@ -50,6 +50,6 @@ Route::prefix('admin')->name('admin.')->group(function() {
     })->name('items');
 });
 
-Route::get('/wanghu-cloning', function() {
-    return view('wanghu-cloning');
+Route::get('/cloning', function() {
+    return view('cloning');
 });

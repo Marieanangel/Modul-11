@@ -12,7 +12,7 @@
         <h1>Belajar Laravel Routing</h1>
 
         <div class="list-group mt-4">
-            <a href="{{ url('/wanghu-cloning') }}" class="list-group-item list-group-item-action">
+            <a href="{{ url('/cloning') }}" class="list-group-item list-group-item-action">
                 Tugas (Bootstrap Clone)
             </a>
         </div>
